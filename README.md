@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Noubissie237"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;C#%20Developer;Freelancer%20;.NET%20Developer%20Python%20&%20C#%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Noubissie237"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;C_Sharp%20Developer;Freelancer%20;.NET%20Developer%20Python%20&%20C_Sharp%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
 </p>
 <p align='center'>
  <h1 align="center">
