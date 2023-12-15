@@ -15,7 +15,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Noubissie wilfried Twitter Profile" height="30" width="30">
   </a>
   
-  <a href="https://twitter.com/NKW_237">
+  <a href="https://noubissie237.github.io/">
     <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="Noubissie wilfried Website" height="30" width="30">
   </a>
 </p>
