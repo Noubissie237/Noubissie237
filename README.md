@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/Noubissie237"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;Django%20Developer;JavaScript%20Developer;C_Sharp%20Developer;.NET%20Developer;Freelancer%20;%20Python%20Lover%20;C_Sharp%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Noubissie237"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;Django%20Developer;DevOps%20junior;JavaScript%20Developer;C_Sharp%20Developer;.NET%20Developer;Freelancer%20;%20Python%20Lover%20;C_Sharp%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
 </p>
 <p align='center'>
  <h1 align="center">
