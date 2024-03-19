@@ -19,6 +19,10 @@
   <a href="https://noubissie237.github.io/">
     <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="Noubissie wilfried Website" height="30" width="30">
   </a>
+
+  <a href="https://wa.me/message/5M3EXSM2BMNKD1">
+    <img src="./images/whatsapp-icon.svg" alt="Noubissie wilfried WhatsApp" height="30" width="30">
+  </a>
 </p>
 </h1>
 
