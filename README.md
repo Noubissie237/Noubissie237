@@ -46,80 +46,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=noubissie237&theme=nord&column=7" alt="Trophy stats"/>
 </p>
 
-## 💻 My Technical Skills
-
-### 🌐 Web Development
-<div align="center">
-
-| Skill | Proficiency |
-|-------|-------------|
-| Django/Python | <img src="https://progress-bar.dev/90/" width="240" /> |
-| HTML5 | <img src="https://progress-bar.dev/90/" width="240" /> |
-| CSS3/SCSS | <img src="https://progress-bar.dev/85/" width="240" /> |
-| Spring Boot | <img src="https://progress-bar.dev/76/" width="240" /> |
-| React.js | <img src="https://progress-bar.dev/71/" width="240" /> |
-
-</div>
-
-### 📱 Mobile Development
-<div align="center">
-
-| Skill | Proficiency |
-|-------|-------------|
-| Flutter | <img src="https://progress-bar.dev/95/" width="240" /> |
-| React Native | <img src="https://progress-bar.dev/70/" width="240" /> |
-| Android (Java/Kotlin) | <img src="https://progress-bar.dev/25/" width="240" /> |
-
-</div>
-
-### 🗄️ Databases
-<div align="center">
-
-| Skill | Proficiency |
-|-------|-------------|
-| MySQL | <img src="https://progress-bar.dev/85/" width="240" /> |
-| PostgreSQL | <img src="https://progress-bar.dev/85/" width="240" /> |
-| SQLite | <img src="https://progress-bar.dev/60/" width="240" /> |
-| MongoDB | <img src="https://progress-bar.dev/20/" width="240" /> |
-
-</div>
-
-### ☁️ DevOps & Cloud
-<div align="center">
-
-| Skill | Proficiency |
-|-------|-------------|
-| Git/GitHub | <img src="https://progress-bar.dev/95/" width="240" /> |
-| Docker | <img src="https://progress-bar.dev/90/" width="240" /> |
-| CI/CD | <img src="https://progress-bar.dev/90/" width="240" /> |
-| Jenkins | <img src="https://progress-bar.dev/80/" width="240" /> |
-| AWS | <img src="https://progress-bar.dev/65/" width="240" /> |
-| Kubernetes | <img src="https://progress-bar.dev/60/" width="240" /> |
-
-</div>
-
-### 🔄 Microservices Architecture
-<div align="center">
-
-| Skill | Proficiency |
-|-------|-------------|
-| Spring Boot Microservices | <img src="https://progress-bar.dev/85/" width="240" /> |
-| RabbitMQ | <img src="https://progress-bar.dev/80/" width="240" /> |
-| Asynchronous Processing | <img src="https://progress-bar.dev/75/" width="240" /> |
-| API Gateway | <img src="https://progress-bar.dev/70/" width="240" /> |
-
-</div>
-
-### 🔧 Programming Languages
-<div align="center">
-
-| Level | Languages |
-|-------|-----------|
-| **Advanced** | Python, JavaScript, Java |
-| **Intermediate** | C/C++, Dart |
-| **Basic** | MATLAB |
-
-</div>
 
 ## 🛠️ Tools & Technologies
 
@@ -185,7 +111,7 @@ I specialize in building scalable and resilient **microservices architectures** 
 
 ## 📊 Projects & Portfolio
 
-I specialize in creating robust web and mobile applications, with a focus on scalable backend architectures. Visit my [portfolio website](https://noubissie237.github.io/) to see some of my recent projects.
+I specialize in creating robust web and mobile applications, with a focus on scalable backend architectures. Visit my [portfolio website](https://noubissie.propentatech.com/) to see some of my recent projects.
 
 Key specialties:
 - Microservices architecture with Spring Boot and RabbitMQ
