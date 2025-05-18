@@ -12,7 +12,7 @@
   <a href="https://twitter.com/NKW_237">
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="30" width="30">
   </a>
-  <a href="https://noubissie237.github.io/">
+  <a href="https://noubissie.propentatech.com/">
     <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="Website" height="30" width="30">
   </a>
   <a href="https://wa.me/message/5M3EXSM2BMNKD1">
