@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Noubissie237"><img src="https://readme-typing-svg.herokuapp.com/?lines=Microservices%20Architect;Spring%20Boot%20Developer;Python%20Developer;Django%20Developer;DevOps%20junior;JavaScript%20Developer;Freelancer;Dev%20Lover&font=Pacifico&center=true&width=650&height=120&colors=4898ff,ff6b6b,4CD97B,FFCC00,9933FF,00BFFF,FF8C00,FF1493&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Noubissie237"><img src="https://readme-typing-svg.herokuapp.com/?lines=Microservices%20Architect;Spring%20Boot%20Developer;Python%20Developer;Django%20Developer;DevOps%20junior;JavaScript%20Developer;Freelancer%20;%Dev%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h2 align="center">👋 Hello, I'm Wilfried NOUBISSIE KAMGA</h2>
