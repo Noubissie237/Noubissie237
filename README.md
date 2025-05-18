@@ -93,6 +93,17 @@
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 </p>
 
+### 🔧 Programming Languages
+<div align="center">
+
+| Level | Languages |
+|-------|-----------|
+| **Advanced** | Java, JavaScript, Python |
+| **Intermediate** | Dart, C |
+| **Basic** | MATLAB |
+
+</div>
+
 ## 🏢 Architecture Expertise
 
 I specialize in building scalable and resilient **microservices architectures** using:
