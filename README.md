@@ -1,121 +1,204 @@
-
 <p align="center">
-  <a href="https://github.com/Noubissie237"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;Django%20Developer;DevOps%20junior;JavaScript%20Developer;C_Sharp%20Developer;.NET%20Developer;Freelancer%20;%20Python%20Lover%20;C_Sharp%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Noubissie237"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;Django%20Developer;DevOps%20junior;JavaScript%20Developer;Microservices%20Architect;Spring%20Boot%20Developer;Freelancer%20;%20Python%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
 </p>
-<p align='center'>
- <h1 align="center">
-  <h2 align="center">You can reach me on: </h2>
+
+<h2 align="center">👋 Hello, I'm Wilfried NOUBISSIE KAMGA</h2>
+<h3 align="center">A passionate Software Developer & DevOps Enthusiast</h3>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/wilfried-noubissie-kamga-989912298/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Noubissie wilfried LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30">
   </a>
-  
   <a href="https://twitter.com/NKW_237">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Noubissie wilfried Twitter Profile" height="30" width="30">
+    <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="30" width="30">
   </a>
-  
   <a href="https://noubissie237.github.io/">
-    <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="Noubissie wilfried Website" height="30" width="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="Website" height="30" width="30">
   </a>
-
   <a href="https://wa.me/message/5M3EXSM2BMNKD1">
-    <img src="./images/whatsapp-icon.svg" alt="Noubissie wilfried WhatsApp" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" height="30" width="30">
+  </a>
+  <a href="https://t.me/nk_wilfried">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="30" width="30">
+  </a>
+  <a href="mailto:wilfried.noubissie@facsciences-uy1.cm">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="30">
   </a>
 </p>
-</h1>
 
-<p align='center'>
-  <a href="https://t.me/nk_wilfried">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:wilfried.noubissie@facsciences-uy1.cm">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-90%25-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-95%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-85%25-FF6C37?style=for-the-badge&logo=spring-boot&logoColor=white" />
+</div>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Noubissie237" />
 <img align="right" src="https://img.shields.io/github/followers/Noubissie237?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Noubissie237&show_icons=true&theme=chartreuse-dark&count_private=true" />
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noubissie237&count_private=true&langs_count=10&theme=chartreuse-dark&layout=compact&hide=html,css" alt="edghi :: Top Langs" />
-<img height="150px" />
-<br>
-<br>
 
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Noubissie237&show_icons=true&theme=chartreuse-dark&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noubissie237&count_private=true&langs_count=10&theme=chartreuse-dark&layout=compact&hide=html,css" alt="Top Languages" />
+</p>
 
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-    <img src="./images/dartlang-icon.svg" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="./images/flutterio-icon.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="jenkins" width="40" height="40"/> 
-  </a>
-  <a href="https://www.travis-ci.com/" target="_blank" rel="noreferrer"> 
-    <img src="./images/travis-ci-icon.svg" alt="travis" width="40" height="40"/> 
-  </a>
-  <a href="https://www.amazon.fr/" target="_blank" rel="noreferrer"> 
-    <img src="./images/amazon-tile.svg" alt="amazon" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=noubissie237&theme=nord&column=7" alt="Trophy stats"/>
+</p>
+
+## 💻 My Technical Skills
+
+### 🌐 Web Development
+<div align="center">
+
+| Skill | Proficiency |
+|-------|-------------|
+| Django/Python | <img src="https://progress-bar.dev/90/" width="240" /> |
+| HTML5 | <img src="https://progress-bar.dev/90/" width="240" /> |
+| CSS3/SCSS | <img src="https://progress-bar.dev/85/" width="240" /> |
+| Spring Boot | <img src="https://progress-bar.dev/76/" width="240" /> |
+| React.js | <img src="https://progress-bar.dev/71/" width="240" /> |
+
+</div>
+
+### 📱 Mobile Development
+<div align="center">
+
+| Skill | Proficiency |
+|-------|-------------|
+| Flutter | <img src="https://progress-bar.dev/95/" width="240" /> |
+| React Native | <img src="https://progress-bar.dev/70/" width="240" /> |
+| Android (Java/Kotlin) | <img src="https://progress-bar.dev/25/" width="240" /> |
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+| Skill | Proficiency |
+|-------|-------------|
+| MySQL | <img src="https://progress-bar.dev/85/" width="240" /> |
+| PostgreSQL | <img src="https://progress-bar.dev/85/" width="240" /> |
+| SQLite | <img src="https://progress-bar.dev/60/" width="240" /> |
+| MongoDB | <img src="https://progress-bar.dev/20/" width="240" /> |
+
+</div>
+
+### ☁️ DevOps & Cloud
+<div align="center">
+
+| Skill | Proficiency |
+|-------|-------------|
+| Git/GitHub | <img src="https://progress-bar.dev/95/" width="240" /> |
+| Docker | <img src="https://progress-bar.dev/90/" width="240" /> |
+| CI/CD | <img src="https://progress-bar.dev/90/" width="240" /> |
+| Jenkins | <img src="https://progress-bar.dev/80/" width="240" /> |
+| AWS | <img src="https://progress-bar.dev/65/" width="240" /> |
+| Kubernetes | <img src="https://progress-bar.dev/60/" width="240" /> |
+
+</div>
+
+### 🔄 Microservices Architecture
+<div align="center">
+
+| Skill | Proficiency |
+|-------|-------------|
+| Spring Boot Microservices | <img src="https://progress-bar.dev/85/" width="240" /> |
+| RabbitMQ | <img src="https://progress-bar.dev/80/" width="240" /> |
+| Asynchronous Processing | <img src="https://progress-bar.dev/75/" width="240" /> |
+| API Gateway | <img src="https://progress-bar.dev/70/" width="240" /> |
+
+</div>
+
+### 🔧 Programming Languages
+<div align="center">
+
+| Level | Languages |
+|-------|-----------|
+| **Advanced** | Python, JavaScript, Java |
+| **Intermediate** | C/C++, Dart |
+| **Basic** | MATLAB |
+
+</div>
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  
+  <!-- Web Development -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  
+  <!-- Mobile Development -->
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  
+  <!-- DevOps -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  
+  <!-- Microservices -->
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+</p>
+
+## 🏢 Architecture Expertise
+
+I specialize in building scalable and resilient **microservices architectures** using:
+
+- **Spring Boot** for creating lightweight, standalone microservices
+- **RabbitMQ** for asynchronous message processing
+- **Event-driven architecture** patterns for decoupled systems
+- **API Gateway** patterns for unified access to microservices
+- **Service discovery** and **circuit breaking** for robust systems
+- **Containerization** with Docker and orchestration with Kubernetes
+
+## 🎓 Education
+
+- **Computer Science Student** at the University of Yaounde I (Cameroon)
+- Focus areas: **Distributed Systems**, **Cloud Architecture**, and **Software Engineering**
+
+## 📊 Projects & Portfolio
+
+I specialize in creating robust web and mobile applications, with a focus on scalable backend architectures. Visit my [portfolio website](https://noubissie237.github.io/) to see some of my recent projects.
+
+Key specialties:
+- Microservices architecture with Spring Boot and RabbitMQ
+- Full-stack web development with Django and React
+- Mobile app development with Flutter
+- DevOps practices (CI/CD, containerization, orchestration)
+- Database design and optimization
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on new projects, especially those involving microservices architecture or cloud-native applications. Feel free to reach out through any of the contact methods above!
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
