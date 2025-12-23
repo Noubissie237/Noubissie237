@@ -1,24 +1,6 @@
 <p align="center">
 <a href="https://github.com/Noubissie237">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=
-Software%20Engineer;
-DevOps%20Enthusiast;
-Advanced%20Spring%20Boot%20Developer;
-Microservices%20Designer;
-Clean%20Architecture%20Practitioner;
-DDD%20Advocate;
-Technical%20Trainer;
-Problem%20Solver
-&font=Fira%20Code
-&center=true
-&width=750
-&height=120
-&color=4898ff
-&vCenter=true
-&size=38"
-    alt="NOUBISSIE Wilfried - Software Engineer, DevOps Enthusiast, Spring Boot Specialist"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;DevOps%20Enthusiast;Advanced%20Spring%20Boot%20Developer;Microservices%20Designer;Clean%20Architecture%20Practitioner;DDD%20Advocate;Technical%20Trainer;Problem%20Solver&font=Fira%20Code&center=true&width=750&height=120&color=4898ff&vCenter=true&size=38" alt="NOUBISSIE Wilfried - Software Engineer, DevOps Enthusiast, Spring Boot Specialist" />
 </a>
 
 </p>
