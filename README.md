@@ -1,8 +1,29 @@
 <p align="center">
-  <a href="https://github.com/Noubissie237"><img src="https://readme-typing-svg.herokuapp.com/?lines=Microservices%20Architect;Spring%20Boot%20Developer;Python%20Developer;Django%20Developer;DevOps%20junior;JavaScript%20Developer;Freelancer%20;%20Dev%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
+<a href="https://github.com/Noubissie237">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=
+Software%20Engineer;
+DevOps%20Enthusiast;
+Advanced%20Spring%20Boot%20Developer;
+Microservices%20Designer;
+Clean%20Architecture%20Practitioner;
+DDD%20Advocate;
+Technical%20Trainer;
+Problem%20Solver
+&font=Fira%20Code
+&center=true
+&width=750
+&height=120
+&color=4898ff
+&vCenter=true
+&size=38"
+    alt="NOUBISSIE Wilfried - Software Engineer, DevOps Enthusiast, Spring Boot Specialist"
+  />
+</a>
+
 </p>
 
-<h2 align="center">👋 Hello, I'm Wilfried NOUBISSIE KAMGA Wilfried</h2>
+<h2 align="center">👋 Hello, I'm Wilfried NOUBISSIE KAMGA</h2>
 <h3 align="center">A passionate Software Engineer & DevOps Enthusiast</h3>
 
 <p align="center">
@@ -21,17 +42,20 @@
   <a href="https://t.me/nk_wilfried">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="30" width="30">
   </a>
-  <a href="mailto:wilfried.noubissie@facsciences-uy1.cm">
+  <a href="mailto:noubissie.k.w@fmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="30">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-95%25-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-90%25-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-95%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-90%25-000000?style=for-the-badge&logo=architect&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain--Driven%20Design-85%25-4B0082?style=for-the-badge&logo=uml&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-85%25-FF6C37?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-95%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
+
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Noubissie237" />
 <img align="right" src="https://img.shields.io/github/followers/Noubissie237?label=Follow&style=social" />
@@ -43,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noubissie237&theme=nord&column=7" alt="Trophy stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Noubissie237&theme=nord&column=7" alt="Trophy stats"/>
 </p>
 
 
@@ -75,7 +99,6 @@
   
   <!-- Microservices -->
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 </p>
 
