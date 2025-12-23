@@ -10,7 +10,7 @@
   </a>
 
   <!-- Cyberpunk Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10%"/>
 
 </div>
 
@@ -71,13 +71,12 @@
 |------------|-------------|
 | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ████████████████████░░ 95% |
 | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ███████████████████░░░ 90% |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ████████████████░░░░░░ 80% |
 
 ### 📱 Frontend & Mobile
 | Technology | Proficiency |
 |------------|-------------|
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ███████████████████░░░ 85% |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ██████████████████░░░░ 80% |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ███████████████████░░░ 85% |
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ████████████████████░░ 95% |
 
 ### 🗄️ Databases
@@ -90,11 +89,11 @@
 ### 🔧 DevOps & Cloud
 | Tool | Proficiency |
 |------|-------------|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ████████████████████░░ 95% |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ███████████████████░░░ 90% |
 | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ████████████████░░░░░░ 75% |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ████████████████░░░░░░ 70% |
 | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ███████████████░░░░░░░ 70% |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ████████████████████░░ 95% |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ████████░░░░░░░░░░░░░░ 35% |
 
 </div>
 
@@ -223,7 +222,7 @@ I'm always open to collaborating on projects involving **microservices architect
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4,23,14,2&height=120&section=footer" width="100%"/>
   
-  <sub>⚡ With ❤️ and lots of ☕ | © 2024 NOUBISSIE Wilfried</sub>
+  <sub> © 2024 NOUBISSIE Wilfried</sub>
 
   <!-- Snake Animation -->
   <picture>
