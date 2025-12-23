@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4,23,14,2&height=200&section=header&text=NOUBISSIE%20WILFRIED&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4,23,14,2&height=200&section=header&text=NOUBISSIE%20K.%20WILFRIED&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
   <!-- Typing SVG with Neon Effect -->
   <a href="https://github.com/Noubissie237">
@@ -66,27 +66,27 @@
 
 <div align="center">
 
-### 🚀 Backend & Frameworks
+###  Backend & Frameworks
 | Technology | Proficiency |
 |------------|-------------|
 | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ████████████████████░░ 95% |
 | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ███████████████████░░░ 90% |
 
-### 📱 Frontend & Mobile
+### Frontend & Mobile
 | Technology | Proficiency |
 |------------|-------------|
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ███████████████████░░░ 85% |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ███████████████████░░░ 85% |
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ████████████████████░░ 95% |
 
-### 🗄️ Databases
+### Databases
 | Database | Proficiency |
 |----------|-------------|
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ████████████████████░░ 95% |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ███████████████████░░░ 90% |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ██████████████████░░░░ 80% |
 
-### 🔧 DevOps & Cloud
+### DevOps & Cloud
 | Tool | Proficiency |
 |------|-------------|
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ████████████████████░░ 95% |
@@ -100,52 +100,18 @@
 <!-- ========== ARCHITECTURE SECTION ========== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Architecture & Design Expertise
 
-<div align="center">
-┌─────────────────────────────────────────────────────────────────┐
-│ SYSTEM ARCHITECTURE │
-├─────────────────────────────────────────────────────────────────┤
-│ │
-│ ┌──────────┐ ┌──────────┐ ┌──────────┐ │
-│ │ Service │◄──►│ RabbitMQ │◄──►│ Service │ │
-│ │ A │ │ (AMQP) │ │ B │ │
-│ └──────────┘ └──────────┘ └──────────┘ │
-│ │ │ │
-│ ▼ ▼ │
-│ ┌──────────┐ ┌──────────┐ │
-│ │ Docker │ │ Docker │ │
-│ │Container │ │Container │ │
-│ └──────────┘ └──────────┘ │
-│ ╲ ╱ │
-│ ╲ ╱ │
-│ ▼ ▼ │
-│ ┌─────────────────────┐ │
-│ │ Kubernetes │ │
-│ │ (Orchestration) │ │
-│ └─────────────────────┘ │
-│ │ │
-│ ┌──────────┴──────────┐ │
-│ ▼ ▼ │
-│ ┌──────────┐ ┌──────────┐ │
-│ │ AWS │ │ Nginx │ │
-│ │ (Cloud) │ │ (Gateway)│ │
-│ └──────────┘ └──────────┘ │
-│ │
-└─────────────────────────────────────────────────────────────────┘
-
-
-</div>
 
 <div align="center">
 
 | Pattern | Description |
 |---------|-------------|
-| 🏗️ **Microservices** | Decoupled, independently deployable services |
-| 🔄 **Event-Driven** | Asynchronous communication via RabbitMQ |
-| 🔐 **API Gateway** | Unified entry point with Nginx |
-| 🔍 **Service Discovery** | Dynamic service registration & lookup |
-| ⚡ **Circuit Breaker** | Fault tolerance with resilience patterns |
-| 📦 **Containerization** | Docker-based deployment & scaling |
-| ☸️ **Orchestration** | Kubernetes for container management |
+| **Microservices** | Decoupled, independently deployable services |
+| **Event-Driven** | Asynchronous communication via RabbitMQ |
+| **API Gateway** | Unified entry point with Nginx |
+| **Service Discovery** | Dynamic service registration & lookup |
+| **Circuit Breaker** | Fault tolerance with resilience patterns |
+| **Containerization** | Docker-based deployment & scaling |
+| **Orchestration** | Kubernetes for container management |
 
 </div>
 
@@ -178,21 +144,6 @@
 
 </div>
 
-<!-- ========== EDUCATION ========== -->
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px"/> Education
-
-<div align="center">
-╔══════════════════════════════════════════════════════════════╗
-║ 🎓 COMPUTER SCIENCE STUDENT ║
-║ 📍 University of Yaounde I, Cameroon ║
-║ ║
-║ 📚 Focus Areas: ║
-║ • Distributed Systems ║
-║ • Cloud Architecture ║
-║ • Software Engineering ║
-╚══════════════════════════════════════════════════════════════╝
-
-</div>
 
 <!-- ========== PROJECTS CTA ========== -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Let's Connect!
@@ -205,7 +156,7 @@
 
 I'm always open to collaborating on projects involving **microservices architecture**, **cloud-native applications**, or **full-stack development**.
 
-[![Portfolio](https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://noubissie.propentatech.com/)
+[![Portfolio](https://img.shields.io/badge/_VISIT_MY_PORTFOLIO-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://noubissie.propentatech.com/)
 [![LinkedIn](https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfried-noubissie-kamga-989912298/)
 
 </div>
@@ -223,11 +174,5 @@ I'm always open to collaborating on projects involving **microservices architect
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4,23,14,2&height=120&section=footer" width="100%"/>
   
   <sub> © 2024 NOUBISSIE Wilfried</sub>
-
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noubissie237/Noubissie237/output/github-contribution-grid-snake-dark.svg"/>
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Noubissie237/Noubissie237/output/github-contribution-grid-snake.svg"/>
-  </picture>
 
 </div>
