@@ -1,0 +1,30 @@
+# .github/workflows/snake.yml
+name: Generate Snake Animation
+
+on:
+  schedule: [{cron: "0 0 * * *"}] # Exécution tous les jours à minuit
+  workflow_dispatch: # Permet de lancer le workflow manuellement via le bouton "Run workflow"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # Étape 1: Génération du snake
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Noubissie237
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=00D4FF&color_dots=#FFFFFF
+
+      # Étape 2: Déploiement vers la branche "output"
+      - name: Push to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
